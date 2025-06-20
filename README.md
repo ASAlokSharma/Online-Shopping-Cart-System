@@ -86,4 +86,4 @@ Developed with ❤️ for simple desktop shopping simulation.
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.co/in/ASAlokSharma" target="_blank">Alok Sharma</a> Email: TVM.AaravSharma@outlook.com</p>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/ASAlokSharma" target="_blank">Alok Sharma</a> Email: TVM.AaravSharma@outlook.com</p>
